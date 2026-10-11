@@ -1,0 +1,11 @@
+# Large dataset and temporary cleaning files
+phishing_url_dataset.csv
+cleaned_urls.csv
+clean_dataset.py
+test_clean.py
+fix_urls.py
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
